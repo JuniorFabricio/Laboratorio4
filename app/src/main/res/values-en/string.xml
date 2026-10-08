@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Middle-earth</string>
+    <string name="txt_gondor">Gondor</string>
+    <string name="txt_rohan">Rohan</string>
+    <string name="txt_mordor">Mordor</string>
+
+</resources>
